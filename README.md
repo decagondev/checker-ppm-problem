@@ -23,3 +23,6 @@ Write a program that generates a red-and-black checkerboard image in the binary 
 - Must write raw binary pixel data directly
 - Program takes no arguments
 - Must work on standard-compliant compilers/interpreters
+
+### Resources
+[PPM Specification](https://netpbm.sourceforge.net/doc/ppm.html)
